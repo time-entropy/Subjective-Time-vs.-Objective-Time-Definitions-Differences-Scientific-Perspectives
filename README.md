@@ -8,4 +8,6 @@ Central breakthroughs include: (1) Deriving the arrow of time from fundamental q
 
 The theory imposes three universal constraints for physical simulations: energy/momentum conservation, irreversible time evolution (ΔS≥0), and least-action path selection. By bridging thermodynamic time with quantum spacetime geometry, this work redefines entropy as the driver of time’s arrow, while proposing testable mechanisms for cosmic and quantum-scale phenomena.
 
+https://cosmoquanta.com/
+
 https://doi.org/10.5281/zenodo.14788393
