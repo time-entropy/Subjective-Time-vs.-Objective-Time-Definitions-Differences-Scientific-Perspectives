@@ -1,6 +1,6 @@
-### Time Definition
 
-Time Definition and the Thermodynamic Arrow: A Unified Model of Entropy, Spacetime, and Irreversibility
+
+### Time Definition and the Thermodynamic Arrow:  Entropy, Spacetime, and Irreversibility
 
 This study revolutionizes our time definition by proposing a discrete framework where entropy evolves through multiplicative dynamics, inherently enforcing time irreversibility (ΔS>0) while preserving consistency with classical thermodynamics. The model unifies three scales of temporal change: thermodynamic time (global universe evolution), local spacetime transformations, and entropy-driven processes—offering a computational "entropy coordinate" to simulate physical systems.
 
